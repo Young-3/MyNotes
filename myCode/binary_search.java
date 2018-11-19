@@ -17,6 +17,10 @@
  *key ²éÕÒ
  */
 public class binary_search {
+	public static int binSearch(int[] a, int key) {
+		return binSearch(a , 0 , a.length - 1, key );
+	}
+	
 	public static int binSearch(int[] a, int start, int end, int key) {
 		int mid = (end - start)/2 + start;
 		if(a[mid] == key) {
@@ -61,8 +65,8 @@ public class binary_search {
 	public static void main(String[] args) {
 
         int[] a = {3,5,11,17,21,23,28,30,32,50,64,78,81,95,101};
-        System.out.println(binSearch(a, 0, a.length - 1, 222));
-        System.out.println(binSearch(a, 0, a.length - 1, 81));
+        System.out.println(binSearch(a, 222));
+        System.out.println(binSearch(a, 81));
         System.out.println(bs(a,87));
         System.out.println(bs(a,11));
 	}

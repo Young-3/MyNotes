@@ -22,6 +22,6 @@ Ctrl+Alt+s--> Editor --> FileTypes   或者 File --> Setting --> Editor --> Fi
 
 # tomcat
 
-![](F:\Typora笔记\MyNotes\日常小记\images\idea tomcat url.png)
+![image](https://github.com/Young-3/MyNotes/tree/master/daliyNotes/images\idea tomcat url.png)
 
-![](F:\Typora笔记\MyNotes\日常小记\images\1555384935285.png)
+![image](https://github.com/Young-3/MyNotes/tree/master/daliyNotes/images\1555384935285.png)

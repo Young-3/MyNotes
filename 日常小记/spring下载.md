@@ -87,4 +87,4 @@ IDEA aop两次实例化问题
 
 原因：因为IDEA会识别dao的addStudent（）和service的addStudent（），所以会实例化两次
 
-![1555339694692](/idea实例化两次)
+![](/idea实例化两次.png)

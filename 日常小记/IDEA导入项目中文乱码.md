@@ -18,8 +18,10 @@ Ctrl+Alt+s--> Editor --> FileTypes   或者 File --> Setting --> Editor --> Fi
 
 
 
-![1555384873097](F:\Typora笔记\日常小记\images\idea tomcat url)
 
 
+# tomcat
 
-![1555384935285](F:\Typora笔记\日常小记\images\1555384935285.png)
+![](F:\Typora笔记\MyNotes\日常小记\images\idea tomcat url.png)
+
+![](F:\Typora笔记\MyNotes\日常小记\images\1555384935285.png)
